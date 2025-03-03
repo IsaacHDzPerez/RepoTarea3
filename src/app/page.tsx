@@ -14,13 +14,13 @@ export default function Home() {
         />
         <ol className="list-inside list-decimal text-sm text-center sm:text-left font-[family-name:var(--font-geist-mono)]">
           <li className="mb-2">
-            Get started by editing{" "}
+            ya me quiero ir alv{" "}
             <code className="bg-black/[.05] dark:bg-white/[.06] px-1 py-0.5 rounded font-semibold">
               src/app/page.tsx
             </code>
             .
           </li>
-          <li>Save and see your changes instantly.</li>
+          <li>traigo un vergamadral de sueño.</li>
         </ol>
 
         <div className="flex gap-4 items-center flex-col sm:flex-row">
@@ -37,7 +37,7 @@ export default function Home() {
               width={20}
               height={20}
             />
-            Deploy now
+            te imaginas que ubiese sido por eso, tremendo predict que me aventé
           </a>
           <a
             className="rounded-full border border-solid border-black/[.08] dark:border-white/[.145] transition-colors flex items-center justify-center hover:bg-[#f2f2f2] dark:hover:bg-[#1a1a1a] hover:border-transparent text-sm sm:text-base h-10 sm:h-12 px-4 sm:px-5 sm:min-w-44"
@@ -45,7 +45,7 @@ export default function Home() {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Read our docs
+            pero, no se, ojala y no, o si, pq si significa que si,
           </a>
         </div>
       </main>
@@ -63,7 +63,7 @@ export default function Home() {
             width={16}
             height={16}
           />
-          Learn
+          habia un interes por algo mas, pero la cague
         </a>
         <a
           className="flex items-center gap-2 hover:underline hover:underline-offset-4"
@@ -78,7 +78,7 @@ export default function Home() {
             width={16}
             height={16}
           />
-          Examples
+          otra vez, que triste
         </a>
         <a
           className="flex items-center gap-2 hover:underline hover:underline-offset-4"
@@ -93,7 +93,7 @@ export default function Home() {
             width={16}
             height={16}
           />
-          Go to nextjs.org →
+          ser incapaz de alcanzar aquello que anhelaste. →
         </a>
       </footer>
     </div>
