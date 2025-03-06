@@ -14,6 +14,7 @@ export default function Home() {
         />
         <ol className="list-inside list-decimal text-sm text-center sm:text-left font-[family-name:var(--font-geist-mono)]">
           <li className="mb-2">
+
             ya me quiero ir alv{" "}
             <code className="bg-black/[.05] dark:bg-white/[.06] px-1 py-0.5 rounded font-semibold">
               src/app/page.tsx
@@ -93,7 +94,8 @@ export default function Home() {
             width={16}
             height={16}
           />
-          ser incapaz de alcanzar aquello que anhelaste. →
+          ser incapaz de alcanzar aquello que anhelaste, me rechazo la cita
+          ptm, ya no me gusta nadie, que aburrido →
         </a>
       </footer>
     </div>
